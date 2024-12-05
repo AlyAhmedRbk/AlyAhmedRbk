@@ -24,4 +24,4 @@ A cutting-edge chat application featuring Socket.io for real-time communication 
 
 <h3>🌟 Connect With Me</h3>
 <div align="center"> <a href="https://linkedin.com/in/AliAhmedRbk"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/AliAhmed"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://AliAhmedPortfolio.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"> </a> </div>
-🌌 "Coding the Future, One Commit at a Time" 🚀
+<h1>🌌 "Coding the Future, One Commit at a Time" 🚀</h1>
