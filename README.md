@@ -1,4 +1,4 @@
-👾 <h1>Welcome to the Devverse of Ali Ahmed 🌌
+<h1>👾 Welcome to the Devverse of Ali Ahmed 🌌
 🚀 MERN Stack Developer | Innovator | Tech Futurist</h1>
 
 "Code is the bridge between dreams and reality."
@@ -8,7 +8,7 @@ Crafting the future of web experiences with MERN technologies, integrating cutti
 🧑‍🚀 Tech Stack Mastery
 <div align="center"> <img src="https://img.shields.io/badge/Code-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Code-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Code-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Cloud-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> </div>
 
-🌌 Exploring the Future
+<h2>🌌 Exploring the Future</h2>
 🌟 Next.js for enhanced server-side rendering
 🤖 Integrating AI and Machine Learning into web solutions
 🛡️ Expanding knowledge in Cybersecurity
