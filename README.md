@@ -36,9 +36,8 @@ I aim to craft solutions that merge **efficiency, resilience, and innovation**, 
 
 ## 🌐 Let’s Connect  
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 💻 [Portfolio Website](https://your-portfolio.com)  
-- 📧 ali.ahmed@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ali-ahmed-7b5514276/)  
+- 📧 alyahmedrbk@gmail.com 
 
 ---
 
