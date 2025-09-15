@@ -8,8 +8,7 @@ I’m passionate about **DevOps, Cloud Computing, and Security**, building pipel
 ## 🔥 What I Do  
 
 ⚡ **DevOps Engineering** – CI/CD pipelines, GitOps, and automation  
-⚡ **Cloud-Native Architectures** – AWS, Azure, and GCP
-
+⚡ **Cloud-Native Architectures** – AWS, Azure, and GCP  
 ⚡ **Containers & Orchestration** – Docker, Kubernetes, Helm, ArgoCD  
 ⚡ **Infrastructure as Code (IaC)** – Terraform, Ansible  
 ⚡ **Monitoring & Security** – Prometheus, Grafana, ELK, DevSecOps practices  
